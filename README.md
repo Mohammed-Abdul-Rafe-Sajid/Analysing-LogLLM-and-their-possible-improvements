@@ -24,13 +24,13 @@ The goal of this project is to demonstrate how **BERT embeddings** combined with
 - Libraries:
 ```bash
 pip install pandas numpy scikit-learn transformers torch
-
+```
 ## Usage
 
 Clone this repository:
 ```bash
 git clone <your-repo-link>
-
+```
 
 - Open Log_Anomaly_Detection.ipynb in Google Colab or Jupyter Notebook
 
