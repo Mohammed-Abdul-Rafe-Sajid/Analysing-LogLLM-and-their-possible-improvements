@@ -55,11 +55,6 @@ git clone <your-repo-link>
 - Confusion matrix demonstrates perfect separation between normal and anomalous logs
 
 
-## References
-
-- Guan, W., Cao, J., Qian, S., & Gao, J. (2023). LogLLM: Log-based Anomaly Detection Using Large Language Models. SJTU.
-
-
 ## Author
 
 - Mohammed Abdul Rafe Sajid
